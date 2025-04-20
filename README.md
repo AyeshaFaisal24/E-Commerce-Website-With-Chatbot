@@ -1,4 +1,4 @@
-📚 E-Commerce Bookstore Website with AI Chatbot – OOP Final Project
+**📚 E-Commerce Bookstore Website with AI Chatbot – OOP Final Project**
 This project was developed as part of our Object-Oriented Programming (OOP) course at FAST-NUCES, Karachi (Spring 2025). It features a Bookstore Website integrated with a C++ backend and a simple AI-based chatbot to assist users.
 
 🔧 Project Components
@@ -34,6 +34,7 @@ Backend: C++ (Object-Oriented Programming, File Handling)
 Tools: Balsamiq (for mockups), GitHub
 
 👥 Team Members
+
 [Tooba Arshad]
 
 [Ayesha Faisal]
