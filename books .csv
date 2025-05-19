@@ -1,0 +1,37 @@
+id,title,price,category,imageURL
+1,Twilight,Rs.1596,0,https://images.unsplash.com/photo-1512820790803-83ca734da794
+2,The LonelyRoad We Traveled,Rs.1596,0,https://covers.openlibrary.org/b/id/10523385-L.jpg
+3,Hunger Games,Rs.1790,0,https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg
+4,Divergent,Rs.1907,0,https://images.unsplash.com/photo-1544717305-2782549b5136
+5,The Book Thief,Rs.1596,0,https://covers.openlibrary.org/b/id/10958398-L.jpg
+6,Hide And Seek,Rs.1790,0,https://m.media-amazon.com/images/I/71g2ednj0JL.jpg
+7,The Kite Runner,Rs.1596,0,https://images.unsplash.com/photo-1581090700227-1c5b0c13c9d1
+8,Fallen Gates,Rs.500,0,https://covers.openlibrary.org/b/id/10497357-L.jpg
+9,The Greatest Story,Rs.1596,0,https://m.media-amazon.com/images/I/91uwocAMtSL.jpg
+10,Verity,Rs.1656,0,https://images.unsplash.com/photo-1495446815901-a7297e633e8d
+11,Memories,Rs.1596,0,https://covers.openlibrary.org/b/id/11136614-L.jpg
+12,The Genesis Protocol,Rs.1907,0,https://m.media-amazon.com/images/I/81bsw6fnUiL.jpg
+13,Knowing God,Rs.1596,1,https://images.unsplash.com/photo-1512820790803-83ca734da794
+14,Living For God,Rs.1596,1,https://covers.openlibrary.org/b/id/10523385-L.jpg
+15,A Hope Of Glory,Rs.1790,1,https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg
+16,The Triumph Of Faith,Rs.1907,1,https://images.unsplash.com/photo-1544717305-2782549b5136
+17,Books And Religious Devotion,Rs.1596,1,https://covers.openlibrary.org/b/id/10958398-L.jpg
+18,Believe,Rs.1790,1,https://m.media-amazon.com/images/I/71g2ednj0JL.jpg
+19,The Divinity Reflection,Rs.1596,1,https://images.unsplash.com/photo-1581090700227-1c5b0c13c9d1
+20,Truth And Faith,Rs.500,1,https://covers.openlibrary.org/b/id/10497357-L.jpg
+21,Hope And Faith,Rs.1596,1,https://m.media-amazon.com/images/I/91uwocAMtSL.jpg
+22,Prayers,Rs.1656,1,https://images.unsplash.com/photo-1495446815901-a7297e633e8d
+23,World's Religion,Rs.1596,1,https://covers.openlibrary.org/b/id/11136614-L.jpg
+24,The Evolution Of Religions,Rs.1907,1,https://m.media-amazon.com/images/I/81bsw6fnUiL.jpg
+25,Acids And Bases,Rs.1596,2,https://images.unsplash.com/photo-1512820790803-83ca734da794
+26,Equity In Sciences,Rs.1596,2,https://covers.openlibrary.org/b/id/10523385-L.jpg
+27,International History,Rs.1790,2,https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg
+28,World's Ocean,Rs.1907,2,https://images.unsplash.com/photo-1544717305-2782549b5136
+29,Dictionary,Rs.1596,2,https://covers.openlibrary.org/b/id/10958398-L.jpg
+30,Quantitatuve Finance,Rs.1790,2,https://m.media-amazon.com/images/I/71g2ednj0JL.jpg
+31,Standard Mathematics,Rs.1596,2,https://images.unsplash.com/photo-1581090700227-1c5b0c13c9d1
+32,Essential Grammer,Rs.500,2,https://covers.openlibrary.org/b/id/10497357-L.jpg
+33,Fundamentals Of Economics,Rs.1596,2,https://m.media-amazon.com/images/I/91uwocAMtSL.jpg
+34,Astronomy Guide,Rs.1656,2,https://images.unsplash.com/photo-1495446815901-a7297e633e8d
+35,Artificial Intelligence Basics,Rs.1596,2,https://covers.openlibrary.org/b/id/11136614-L.jpg
+36,CyverSecurity COursebook,Rs.1907,2,https://m.media-amazon.com/images/I/81bsw6fnUiL.jpg
