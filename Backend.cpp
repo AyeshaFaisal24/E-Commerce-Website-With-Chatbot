@@ -3,7 +3,7 @@
 // Built from scratch to simulate a minimal e-commerce backend with user authentication,
 // product listing, and shopping cart functionality using OOP and SQLite
 
-#include <crow.h>                  // Crow is a C++ microframework similar to Express.js
+#include <crow.h>                  // Crow is a C++ microframework 
 #include <sqlite_modern_cpp.h>     
 #include <optional>
 #include <string>
