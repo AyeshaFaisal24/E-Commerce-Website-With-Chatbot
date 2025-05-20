@@ -15,7 +15,6 @@ This project was developed as a final submission for the **Object-Oriented Progr
 ## 🎯 Key Features
 
 - 📚 **Book Browsing**: View and browse through a list of available books.
-- 🤖 **Chatbot Assistant**: A basic chatbot built in C++ that responds to user queries.
 - 💻 **Frontend Interface**: User-friendly website created using HTML, CSS, and JavaScript.
 - 💾 **Database Integration**: Uses an SQLite database to store book records.
 - 🧠 **OOP Concepts**: C++ backend uses classes and basic object-oriented principles to manage functionality.
