@@ -1,51 +1,33 @@
-**📚 E-Commerce Bookstore Website with AI Chatbot – OOP Final Project**
+# 📚 E-Commerce Bookstore with AI Chatbot
 
-This project was developed as part of our Object-Oriented Programming (OOP) course at FAST-NUCES, Karachi (Spring 2025). It features a Bookstore Website integrated with a C++ backend and a simple AI-based chatbot to assist users.
+## 📝 Project Overview
 
-🔧 Project Components
-Frontend
-Created using HTML, CSS, and JavaScript, the website provides a user-friendly interface for browsing and interacting with books.
+This project was developed as a final submission for the **Object-Oriented Programming (OOP)** course at **FAST-NUCES, Karachi** (Spring 2025). It showcases an **E-Commerce Bookstore** system integrated with a simple **AI chatbot**, implemented using C++ and a separate frontend built using HTML, CSS, and JavaScript. The system also uses a database for storing book records.
 
-Backend (.cpp)
-Developed in C++, the backend uses OOP concepts to manage book records, user interactions, and basic chatbot logic.
+## 👥 Team Members
 
-Chatbot
-Implemented in C++, the chatbot is designed to provide basic assistance and responses using simple logic and file handling.
+- [Tooba Arshad]  
+- [Ayesha Faisal]  
+- [Sanjna Kataria]
 
-🚀 Features
-Book listing and browsing
+---
 
-Chatbot interaction for assistance
+## 🎯 Key Features
 
-C++ backend with:
+- 📚 **Book Browsing**: View and browse through a list of available books.
+- 🤖 **Chatbot Assistant**: A basic chatbot built in C++ that responds to user queries.
+- 💻 **Frontend Interface**: User-friendly website created using HTML, CSS, and JavaScript.
+- 💾 **Database Integration**: Uses an SQLite database to store book records.
+- 🧠 **OOP Concepts**: C++ backend uses classes and basic object-oriented principles to manage functionality.
 
-Classes and objects for books and users
+---
 
-File handling for storing and retrieving book data
+## 🛠️ Technologies Used
 
-Basic keyword-based chatbot logic
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: C++  
+- **Database**: SQLite (`bookstore.db`)  
 
-Website UI built with HTML, CSS, and JS
+---
 
-🛠️ Technologies Used
-Frontend: HTML, CSS, JavaScript
-
-Backend: C++ (Object-Oriented Programming, File Handling)
-
-Tools: Balsamiq (for mockups), GitHub
-
-👥 Team Members
-
-[Tooba Arshad]
-
-[Ayesha Faisal]
-
-[Sanjna Kataria ]
-
-📌 Current Progress
-✅ Website frontend completed
-
-✅ C++ backend with chatbot functionality written
-
-🔄 Currently working on connecting frontend with backend
 
